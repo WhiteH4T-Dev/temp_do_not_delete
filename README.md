@@ -1,1 +1,1 @@
-# temp_do_not_delete
+echo "You have been hacked by D-Security" > RED_TEAM_BRUH.txt
